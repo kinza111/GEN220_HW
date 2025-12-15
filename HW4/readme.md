@@ -1,6 +1,6 @@
 # HW4 — AI-assisted GFF gene architecture summary
 
-## Prompt used (AI coding prompt)
+## Overall project/promot workflow summary
 I want a Python tool that reads GFF3/GTF annotation files from multiple smallgenomes and reports genome annotation summary statistics:
 - exon size distribution (min/mean/max)
 - intron size distribution (min/mean/max) computed as gaps between exons within the same transcript/gene when possible
