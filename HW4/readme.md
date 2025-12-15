@@ -17,6 +17,7 @@ toy data: 1. Thermus aquaticus, 2. Bacillus subtilis, Saccharomyces cerevisiae
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/399/775/GCF_001399775.1_ASM139977v1/GCF_001399775.1_ASM139977v1_genomic.gff.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/045/GCF_000009045.1_ASM904v1/GCF_000009045.1_ASM904v1_genomic.gff.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.gff.gz
+
 gunzip *.gz 
 
 mv GCF_001399775.1_ASM139977v1_genomic.gff therm_aquaticus.gf
@@ -34,9 +35,3 @@ head -n 1 thermus_summary.tsv > combined_summary.tsv
 tail -n 1 thermus_summary.tsv >> combined_summary.tsv
 tail -n 1 bacillus_summary.tsv >> combined_summary.tsv
 tail -n 1 yeast_summary.tsv >> combined_summary.tsv
-
-
-
-
-
-
