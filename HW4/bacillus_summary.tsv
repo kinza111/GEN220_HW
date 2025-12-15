@@ -1,0 +1,2 @@
+file	n_genes	annotated_span_bp	genes_per_mb	gene_len_min	gene_len_mean	gene_len_max	exon_len_min	exon_len_mean	exon_len_max	intron_len_min	intron_len_mean	intron_len_max	mean_exons_per_gene	intergenic_min	intergenic_mean	intergenic_max	coding_fraction
+bacillus_sub.gff	4448	4214980	1055.2838	42	848.6848	16467	42	175.6237	805	NA	NA	NA	1.0000	0	103.4214	7511	0.8770

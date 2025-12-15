@@ -1,0 +1,2 @@
+file	n_genes	annotated_span_bp	genes_per_mb	gene_len_min	gene_len_mean	gene_len_max	exon_len_min	exon_len_mean	exon_len_max	intron_len_min	intron_len_mean	intron_len_max	mean_exons_per_gene	intergenic_min	intergenic_mean	intergenic_max	coding_fraction
+scc_cervisiae.gff	6459	12117311	533.0391	51	1399.6371	14733	1	1391.6356	14733	31	357.6571	2483	1.0516	0	503.3530	12181	0.7224

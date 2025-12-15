@@ -1,0 +1,2 @@
+file	n_genes	annotated_span_bp	genes_per_mb	gene_len_min	gene_len_mean	gene_len_max	exon_len_min	exon_len_mean	exon_len_max	intron_len_min	intron_len_mean	intron_len_max	mean_exons_per_gene	intergenic_min	intergenic_mean	intergenic_max	coding_fraction
+therm_aquaticus.gff	2505	2336212	1072.2486	74	867.7293	7983	51	875.1121	7983	NA	NA	NA	NA	0	68.9904	2176	0.9313
